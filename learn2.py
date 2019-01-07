@@ -31,3 +31,4 @@ num = int(input("Give Num"))
 check = int(input("give check"))
 if num%check=0:
     print("No. is divisible")
+
